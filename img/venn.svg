@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="-2.671 -2.671 320.342 320.342">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1fe2b2;
+        stroke-width: 8px;
+        opacity: 0.5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect width="315" height="315"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <circle id="Ellipse_4_copy_2" data-name="Ellipse 4 copy 2" class="cls-1" cx="96" cy="96" r="89"/>
+    <circle id="Ellipse_4_copy_2-2" data-name="Ellipse 4 copy 2" class="cls-1" cx="221" cy="221" r="89"/>
+  </g>
+</svg>
