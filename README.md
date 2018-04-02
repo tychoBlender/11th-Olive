@@ -4,11 +4,12 @@ Refecting DTLA values / Expressive / Progressive / Community-Driver
 
 ## Description
 
-Land Entitlement project addressing the need for housing for DTLA continued population growth
-
+The 1045 Olive Project (the Project) includes the removal of four existing commercial buildings and the construction of a mixed‐use high‐rise building not to exceed 751,777 square feet containing a maximum of 794 residential units and 12,504 square feet of commercial uses located at the ground and mezzanine levels. At 70 stories, with a 61‐story tower above a nine‐story podium structure, the Project would reach up to 810 feet in height. Neighborhood serving commercial uses and a residential lobby would front along 11th Street and Olive Street. A public plaza space would be located at the corner of 11th Street and Olive Street. In addition, the Project would provide up to 100,652 square feet of amenity/open space area for its residents located above the podium structure, at mid‐tower, on a roof terrace and within private balconies. Vehicle and bicycle parking would be provided per requirements of the LAMC within up to six (6) subterranean levels and eight (8) partial levels above grade (the fifth through ninth levels will contain residential units and other active uses along the perimeter of the Podium along the 11th Street and Olive Street frontages). The maximum floor‐area ratio (FAR) for the Transit Area Mixed‐Use Project would be 13:1.
 Pages 
 
-- **s** - 
+* [Spec Work][1]
+
+[1]: https://tychoblender.github.io/11th-Olive/ "Spec Work"
 
 
 ## Notes
